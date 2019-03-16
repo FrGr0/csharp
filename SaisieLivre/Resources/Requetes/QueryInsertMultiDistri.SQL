@@ -1,0 +1,14 @@
+INSERT INTO T_MULTIDISTRI ( GENCOD, DISTRIBUTEUR, CODEEDITEUR, IDCOLLECTION, 
+NOCOLL, PRIX, DATEPARUTION, DISPO, DATECREATION, DATEMAJ)
+ VALUES (
+'{0}', 
+'{1}', 
+'{2}', 
+'{3}', 
+'{4}', 
+'{5}', 
+'{6}', 
+'{7}', 
+'now', 
+'now'
+)
