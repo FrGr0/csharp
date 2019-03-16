@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{81FBEEA7-8650-4127-AA7A-4831E3284FB4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SaisieLivre</RootNamespace>
+    <AssemblyName>SaisieLivre</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publier\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>Auto</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>39809.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup>
+    <Reference Include="FirebirdSql.Data.FirebirdClient">
+      <HintPath>..\..\..\..\repository\~Programmes de saisie\Saisie Livre\SaisieLivre\bin\Release\FirebirdSql.Data.FirebirdClient.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Forms\AuteursForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AuteursForm.Designer.cs">
+      <DependentUpon>AuteursForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FDB.cs" />
+    <Compile Include="CustomDateTimePicker.cs" />
+    <Compile Include="Forms\CollectionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CollectionForm.Designer.cs">
+      <DependentUpon>CollectionForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\DicoAuteurForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\DicoAuteurForm.Designer.cs">
+      <DependentUpon>DicoAuteurForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ImageForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ImageForm.Designer.cs">
+      <DependentUpon>ImageForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\LoadMultiDistriForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\LoadMultiDistriForm.Designer.cs">
+      <DependentUpon>LoadMultiDistriForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\GenListeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\GenListeForm.Designer.cs">
+      <DependentUpon>GenListeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\NewCollectionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\NewCollectionForm.Designer.cs">
+      <DependentUpon>NewCollectionForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ini.cs" />
+    <Compile Include="Memorizer.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Forms\DilicomForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\DilicomForm.Designer.cs">
+      <DependentUpon>DilicomForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SplashScreen\SplashScreen.cs" />
+    <Compile Include="Forms\SplashScreen\SplashScreenForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SplashScreen\SplashScreenForm.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SplashScreenForm.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\TradForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\TradForm.Designer.cs">
+      <DependentUpon>TradForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="SuggestComboBox.cs" />
+    <EmbeddedResource Include="Forms\AuteursForm.resx">
+      <DependentUpon>AuteursForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\CollectionForm.resx">
+      <DependentUpon>CollectionForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\DicoAuteurForm.resx">
+      <DependentUpon>DicoAuteurForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\GenListeForm.resx">
+      <DependentUpon>GenListeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ImageForm.resx">
+      <DependentUpon>ImageForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\LoadMultiDistriForm.resx">
+      <DependentUpon>LoadMultiDistriForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\NewCollectionForm.resx">
+      <DependentUpon>NewCollectionForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\DilicomForm.resx">
+      <DependentUpon>DilicomForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SplashScreen\SplashScreenForm.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>SplashScreenForm.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\TradForm.resx">
+      <DependentUpon>TradForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\Requetes\QueryLivre.SQL" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Requetes\QueryLivreBis.SQL" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Images\user-add_icon-icons.com_48407.png" />
+    <None Include="Resources\Requetes\SelectFromLibseriesForNewCollection.sql" />
+    <None Include="Resources\Requetes\SelectFromCollectionsForNewCollection.sql" />
+    <None Include="Resources\Images\search.png" />
+    <None Include="Resources\Images\Save-icon.png" />
+    <None Include="Resources\Requetes\QuerySelectSeries.sql" />
+    <None Include="Resources\Images\Green_Valider1.png" />
+    <Content Include="Resources\Images\down.png" />
+    <Content Include="Resources\Images\Red_Annuler1.png" />
+    <None Include="Resources\Images\39809.png" />
+    <Content Include="Resources\Requetes\QuerySelectCollection.SQL" />
+    <None Include="Resources\Images\titelive-logo.jpg" />
+    <None Include="Resources\Images\certified-1.png" />
+    <None Include="Resources\Images\0021 - Recycle Bin Full48_48x48.png" />
+    <None Include="Resources\Images\folder-blue-open-icon.png" />
+    <None Include="Resources\Images\Folder-Open-icon.png" />
+    <None Include="Resources\Images\document_open.png" />
+    <None Include="Resources\Images\23173-bubka-Setting.png" />
+    <None Include="Resources\Images\icone_ouvrir.png" />
+    <None Include="Resources\Images\12.gif" />
+    <None Include="Resources\Images\39809.ico" />
+    <Content Include="39809.ico" />
+    <None Include="Resources\Images\giphy.gif" />
+    <Content Include="Resources\Images\image_a_venir.jpg" />
+    <Content Include="Resources\Images\Green_Valider.png" />
+    <Content Include="Resources\Images\Next.png" />
+    <None Include="Resources\Images\Paste.png" />
+    <Content Include="Resources\Images\picto visuel.jpg" />
+    <Content Include="Resources\Images\Previous.png" />
+    <None Include="Resources\Images\panneau-temporaire-ak14-sans.png" />
+    <Content Include="Resources\Requetes\QueryGenListe.SQL" />
+    <None Include="Resources\Requetes\QueryUpdateLivre.SQL" />
+    <None Include="Resources\Requetes\QueryInsertLivre.SQL" />
+    <None Include="Resources\Requetes\QueryLivreAlternate.SQL" />
+    <None Include="Resources\Requetes\QueryUpdateLivreAlternate.SQL" />
+    <None Include="Resources\Requetes\QueryUpdateMultiDistri.SQL" />
+    <None Include="Resources\Requetes\QueryInsertMultiDistri.SQL" />
+    <None Include="Resources\Requetes\QueryUpdateChainage.SQL" />
+    <None Include="Resources\Requetes\QuerySelectChainage.SQL" />
+    <Content Include="Resources\Images\Red_Annuler.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 et x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
