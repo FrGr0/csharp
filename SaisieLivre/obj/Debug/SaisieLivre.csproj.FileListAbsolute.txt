@@ -1,0 +1,46 @@
+C:\Users\fgros\Documents\Visual Studio 2012\Projects\SaisieLivre\SaisieLivre\bin\Debug\SaisieLivre.exe
+C:\Users\fgros\Documents\Visual Studio 2012\Projects\SaisieLivre\SaisieLivre\bin\Debug\SaisieLivre.pdb
+C:\Users\fgros\Documents\Visual Studio 2012\Projects\SaisieLivre\SaisieLivre\obj\Debug\SaisieLivre.csprojResolveAssemblyReference.cache
+C:\Users\fgros\Documents\Visual Studio 2012\Projects\SaisieLivre\SaisieLivre\obj\Debug\SaisieLivre.Properties.Resources.resources
+C:\Users\fgros\Documents\Visual Studio 2012\Projects\SaisieLivre\SaisieLivre\obj\Debug\SaisieLivre.csproj.GenerateResource.Cache
+C:\Users\fgros\Documents\Visual Studio 2012\Projects\SaisieLivre\SaisieLivre\obj\Debug\SaisieLivre.exe
+C:\Users\fgros\Documents\Visual Studio 2012\Projects\SaisieLivre\SaisieLivre\obj\Debug\SaisieLivre.pdb
+C:\Users\fgros\Documents\Visual Studio 2012\Projects\SaisieLivre\SaisieLivre\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\fgros\Documents\Visual Studio 2012\Projects\SaisieLivre\SaisieLivre\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+C:\Users\fgros\Documents\Visual Studio 2012\Projects\SaisieLivre\SaisieLivre\obj\Debug\SaisieLivre.MainForm.resources
+C:\Users\fgros\Documents\Visual Studio 2012\Projects\SaisieLivre\SaisieLivre\obj\Debug\SaisieLivre.AuteursForm.resources
+C:\Users\fgros\Documents\Visual Studio 2012\Projects\SaisieLivre\SaisieLivre\obj\Debug\SaisieLivre.SplashScreenForm.resources
+C:\Users\fgros\Documents\Visual Studio 2012\Projects\SaisieLivre\SaisieLivre\obj\Debug\SaisieLivre.TradForm.resources
+C:\Users\fgros\Documents\Visual Studio 2012\Projects\SaisieLivre\SaisieLivre\obj\Debug\SaisieLivre.ImageForm.resources
+C:\Users\fgros\Documents\Visual Studio 2012\Projects\SaisieLivre\SaisieLivre\obj\Debug\SaisieLivre.DilicomForm.resources
+C:\Fichiers Communs\François Gros\repository_old\Programmes de saisie\SaisieLivre (C#)\SaisieLivre\obj\Debug\SaisieLivre.exe
+C:\Fichiers Communs\François Gros\repository_old\Programmes de saisie\SaisieLivre (C#)\SaisieLivre\obj\Debug\SaisieLivre.pdb
+C:\Fichiers Communs\François Gros\repository_old\Programmes de saisie\SaisieLivre (C#)\SaisieLivre\bin\Debug\SaisieLivre.exe
+C:\Fichiers Communs\François Gros\repository_old\Programmes de saisie\SaisieLivre (C#)\SaisieLivre\bin\Debug\SaisieLivre.pdb
+C:\Fichiers Communs\François Gros\repository_old\Programmes de saisie\SaisieLivre (C#)\SaisieLivre\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+C:\Fichiers Communs\François Gros\repository_old\Programmes de saisie\SaisieLivre (C#)\SaisieLivre\obj\Debug\SaisieLivre.csprojResolveAssemblyReference.cache
+C:\Fichiers Communs\François Gros\repository_old\Programmes de saisie\SaisieLivre (C#)\SaisieLivre\obj\Debug\SaisieLivre.AuteursForm.resources
+C:\Fichiers Communs\François Gros\repository_old\Programmes de saisie\SaisieLivre (C#)\SaisieLivre\obj\Debug\SaisieLivre.ImageForm.resources
+C:\Fichiers Communs\François Gros\repository_old\Programmes de saisie\SaisieLivre (C#)\SaisieLivre\obj\Debug\SaisieLivre.MainForm.resources
+C:\Fichiers Communs\François Gros\repository_old\Programmes de saisie\SaisieLivre (C#)\SaisieLivre\obj\Debug\SaisieLivre.Properties.Resources.resources
+C:\Fichiers Communs\François Gros\repository_old\Programmes de saisie\SaisieLivre (C#)\SaisieLivre\obj\Debug\SaisieLivre.DilicomForm.resources
+C:\Fichiers Communs\François Gros\repository_old\Programmes de saisie\SaisieLivre (C#)\SaisieLivre\obj\Debug\SaisieLivre.TradForm.resources
+C:\Fichiers Communs\François Gros\repository_old\Programmes de saisie\SaisieLivre (C#)\SaisieLivre\obj\Debug\SaisieLivre.csproj.GenerateResource.Cache
+C:\Fichiers Communs\François Gros\repository_old\Programmes de saisie\SaisieLivre (C#)\SaisieLivre\obj\Debug\SaisieLivre.Forms.SplashScreen.SplashScreenForm.resources
+C:\Users\fgros\Desktop\Saisie Livre\SaisieLivre\bin\Debug\SaisieLivre.exe
+C:\Users\fgros\Desktop\Saisie Livre\SaisieLivre\bin\Debug\SaisieLivre.pdb
+C:\Users\fgros\Desktop\Saisie Livre\SaisieLivre\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\fgros\Desktop\Saisie Livre\SaisieLivre\obj\Debug\SaisieLivre.csprojResolveAssemblyReference.cache
+C:\Users\fgros\Desktop\Saisie Livre\SaisieLivre\obj\Debug\SaisieLivre.AuteursForm.resources
+C:\Users\fgros\Desktop\Saisie Livre\SaisieLivre\obj\Debug\SaisieLivre.DicoAuteurForm.resources
+C:\Users\fgros\Desktop\Saisie Livre\SaisieLivre\obj\Debug\SaisieLivre.GenListeForm.resources
+C:\Users\fgros\Desktop\Saisie Livre\SaisieLivre\obj\Debug\SaisieLivre.ImageForm.resources
+C:\Users\fgros\Desktop\Saisie Livre\SaisieLivre\obj\Debug\SaisieLivre.LoadMultiDistriForm.resources
+C:\Users\fgros\Desktop\Saisie Livre\SaisieLivre\obj\Debug\SaisieLivre.MainForm.resources
+C:\Users\fgros\Desktop\Saisie Livre\SaisieLivre\obj\Debug\SaisieLivre.Properties.Resources.resources
+C:\Users\fgros\Desktop\Saisie Livre\SaisieLivre\obj\Debug\SaisieLivre.DilicomForm.resources
+C:\Users\fgros\Desktop\Saisie Livre\SaisieLivre\obj\Debug\SaisieLivre.Forms.SplashScreen.SplashScreenForm.resources
+C:\Users\fgros\Desktop\Saisie Livre\SaisieLivre\obj\Debug\SaisieLivre.TradForm.resources
+C:\Users\fgros\Desktop\Saisie Livre\SaisieLivre\obj\Debug\SaisieLivre.csproj.GenerateResource.Cache
+C:\Users\fgros\Desktop\Saisie Livre\SaisieLivre\obj\Debug\SaisieLivre.exe
+C:\Users\fgros\Desktop\Saisie Livre\SaisieLivre\obj\Debug\SaisieLivre.pdb

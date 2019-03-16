@@ -1,0 +1,154 @@
+C:\Fichiers Communs\François Gros\repository_old\Programmes de saisie\SaisieLivre (C#)\SaisieLivre\obj\Release\SaisieLivre.AuteursForm.resources
+C:\Fichiers Communs\François Gros\repository_old\Programmes de saisie\SaisieLivre (C#)\SaisieLivre\obj\Release\SaisieLivre.ImageForm.resources
+C:\Fichiers Communs\François Gros\repository_old\Programmes de saisie\SaisieLivre (C#)\SaisieLivre\obj\Release\SaisieLivre.MainForm.resources
+C:\Fichiers Communs\François Gros\repository_old\Programmes de saisie\SaisieLivre (C#)\SaisieLivre\obj\Release\SaisieLivre.Properties.Resources.resources
+C:\Fichiers Communs\François Gros\repository_old\Programmes de saisie\SaisieLivre (C#)\SaisieLivre\obj\Release\SaisieLivre.DilicomForm.resources
+C:\Fichiers Communs\François Gros\repository_old\Programmes de saisie\SaisieLivre (C#)\SaisieLivre\obj\Release\SaisieLivre.Forms.SplashScreen.SplashScreenForm.resources
+C:\Fichiers Communs\François Gros\repository_old\Programmes de saisie\SaisieLivre (C#)\SaisieLivre\obj\Release\SaisieLivre.TradForm.resources
+C:\Fichiers Communs\François Gros\repository_old\Programmes de saisie\SaisieLivre (C#)\SaisieLivre\obj\Release\SaisieLivre.csproj.GenerateResource.Cache
+C:\Fichiers Communs\François Gros\repository_old\Programmes de saisie\SaisieLivre (C#)\SaisieLivre\bin\Release\SaisieLivre.exe
+C:\Fichiers Communs\François Gros\repository_old\Programmes de saisie\SaisieLivre (C#)\SaisieLivre\bin\Release\SaisieLivre.pdb
+C:\Fichiers Communs\François Gros\repository_old\Programmes de saisie\SaisieLivre (C#)\SaisieLivre\obj\Release\SaisieLivre.exe
+C:\Fichiers Communs\François Gros\repository_old\Programmes de saisie\SaisieLivre (C#)\SaisieLivre\obj\Release\SaisieLivre.pdb
+C:\Fichiers Communs\François Gros\repository_old\Programmes de saisie\SaisieLivre (C#)\SaisieLivre\obj\Release\SaisieLivre.GenListeForm.resources
+C:\Users\bakemono\Desktop\Saisie Livre 18-06-2015\SaisieLivre\obj\Release\SaisieLivre.exe
+C:\Users\bakemono\Desktop\Saisie Livre 18-06-2015\SaisieLivre\obj\Release\SaisieLivre.pdb
+C:\Users\bakemono\Desktop\Saisie Livre 18-06-2015\SaisieLivre\obj\Release\SaisieLivre.csprojResolveAssemblyReference.cache
+C:\Users\bakemono\Desktop\Saisie Livre 18-06-2015\SaisieLivre\obj\Release\SaisieLivre.AuteursForm.resources
+C:\Users\bakemono\Desktop\Saisie Livre 18-06-2015\SaisieLivre\obj\Release\SaisieLivre.GenListeForm.resources
+C:\Users\bakemono\Desktop\Saisie Livre 18-06-2015\SaisieLivre\obj\Release\SaisieLivre.ImageForm.resources
+C:\Users\bakemono\Desktop\Saisie Livre 18-06-2015\SaisieLivre\obj\Release\SaisieLivre.MainForm.resources
+C:\Users\bakemono\Desktop\Saisie Livre 18-06-2015\SaisieLivre\obj\Release\SaisieLivre.Properties.Resources.resources
+C:\Users\bakemono\Desktop\Saisie Livre 18-06-2015\SaisieLivre\obj\Release\SaisieLivre.DilicomForm.resources
+C:\Users\bakemono\Desktop\Saisie Livre 18-06-2015\SaisieLivre\obj\Release\SaisieLivre.Forms.SplashScreen.SplashScreenForm.resources
+C:\Users\bakemono\Desktop\Saisie Livre 18-06-2015\SaisieLivre\obj\Release\SaisieLivre.TradForm.resources
+C:\Users\bakemono\Desktop\Saisie Livre 18-06-2015\SaisieLivre\obj\Release\SaisieLivre.csproj.GenerateResource.Cache
+C:\Fichiers Communs\François Gros\repository_old\Programmes de saisie\SaisieLivre (C#)\SaisieLivre\obj\Release\SaisieLivre.LoadMultiDistriForm.resources
+C:\Users\bakemono\Desktop\sources\SaisieLivre\obj\Release\SaisieLivre.exe
+C:\Users\bakemono\Desktop\sources\SaisieLivre\obj\Release\SaisieLivre.pdb
+C:\Users\bakemono\Desktop\sources\SaisieLivre\obj\Release\SaisieLivre.csprojResolveAssemblyReference.cache
+C:\Users\bakemono\Desktop\sources\SaisieLivre\obj\Release\SaisieLivre.AuteursForm.resources
+C:\Users\bakemono\Desktop\sources\SaisieLivre\obj\Release\SaisieLivre.GenListeForm.resources
+C:\Users\bakemono\Desktop\sources\SaisieLivre\obj\Release\SaisieLivre.ImageForm.resources
+C:\Users\bakemono\Desktop\sources\SaisieLivre\obj\Release\SaisieLivre.LoadMultiDistriForm.resources
+C:\Users\bakemono\Desktop\sources\SaisieLivre\obj\Release\SaisieLivre.MainForm.resources
+C:\Users\bakemono\Desktop\sources\SaisieLivre\obj\Release\SaisieLivre.Properties.Resources.resources
+C:\Users\bakemono\Desktop\sources\SaisieLivre\obj\Release\SaisieLivre.DilicomForm.resources
+C:\Users\bakemono\Desktop\sources\SaisieLivre\obj\Release\SaisieLivre.Forms.SplashScreen.SplashScreenForm.resources
+C:\Users\bakemono\Desktop\sources\SaisieLivre\obj\Release\SaisieLivre.TradForm.resources
+C:\Users\bakemono\Desktop\sources\SaisieLivre\obj\Release\SaisieLivre.csproj.GenerateResource.Cache
+C:\Users\bakemono\Desktop\sources\SaisieLivre\bin\Release\SaisieLivre.exe
+C:\Users\bakemono\Desktop\sources\SaisieLivre\bin\Release\SaisieLivre.pdb
+C:\Users\fgros\Desktop\sources\SaisieLivre\obj\Release\SaisieLivre.exe
+C:\Users\fgros\Desktop\sources\SaisieLivre\obj\Release\SaisieLivre.pdb
+C:\Users\fgros\Desktop\sources\SaisieLivre\bin\Release\SaisieLivre.exe
+C:\Users\fgros\Desktop\sources\SaisieLivre\bin\Release\SaisieLivre.pdb
+C:\Users\fgros\Desktop\sources\SaisieLivre\obj\Release\SaisieLivre.csprojResolveAssemblyReference.cache
+C:\Users\fgros\Desktop\sources\SaisieLivre\obj\Release\SaisieLivre.AuteursForm.resources
+C:\Users\fgros\Desktop\sources\SaisieLivre\obj\Release\SaisieLivre.GenListeForm.resources
+C:\Users\fgros\Desktop\sources\SaisieLivre\obj\Release\SaisieLivre.ImageForm.resources
+C:\Users\fgros\Desktop\sources\SaisieLivre\obj\Release\SaisieLivre.LoadMultiDistriForm.resources
+C:\Users\fgros\Desktop\sources\SaisieLivre\obj\Release\SaisieLivre.MainForm.resources
+C:\Users\fgros\Desktop\sources\SaisieLivre\obj\Release\SaisieLivre.Properties.Resources.resources
+C:\Users\fgros\Desktop\sources\SaisieLivre\obj\Release\SaisieLivre.DilicomForm.resources
+C:\Users\fgros\Desktop\sources\SaisieLivre\obj\Release\SaisieLivre.Forms.SplashScreen.SplashScreenForm.resources
+C:\Users\fgros\Desktop\sources\SaisieLivre\obj\Release\SaisieLivre.TradForm.resources
+C:\Users\fgros\Desktop\sources\SaisieLivre\obj\Release\SaisieLivre.csproj.GenerateResource.Cache
+C:\Users\fgros\Desktop\sources\SaisieLivre\obj\Release\SaisieLivre.DicoAuteurForm.resources
+C:\Fichiers Communs\François Gros\repository_old\Programmes de saisie\SaisieLivre (C#)\SaisieLivre\obj\Release\SaisieLivre.DicoAuteurForm.resources
+C:\Fichiers Communs\François Gros\repository_old\Programmes de saisie\SaisieLivre (C#)\SaisieLivre\obj\Release\SaisieLivre.csprojResolveAssemblyReference.cache
+C:\Users\bakemono\Desktop\saisie livre 2\SaisieLivre\obj\Release\SaisieLivre.exe
+C:\Users\bakemono\Desktop\saisie livre 2\SaisieLivre\obj\Release\SaisieLivre.pdb
+C:\Users\bakemono\Desktop\saisie livre 2\SaisieLivre\bin\Release\SaisieLivre.exe
+C:\Users\bakemono\Desktop\saisie livre 2\SaisieLivre\bin\Release\SaisieLivre.pdb
+C:\Users\bakemono\Desktop\saisie livre 2\SaisieLivre\obj\Release\SaisieLivre.csprojResolveAssemblyReference.cache
+C:\Users\bakemono\Desktop\saisie livre 2\SaisieLivre\obj\Release\SaisieLivre.AuteursForm.resources
+C:\Users\bakemono\Desktop\saisie livre 2\SaisieLivre\obj\Release\SaisieLivre.DicoAuteurForm.resources
+C:\Users\bakemono\Desktop\saisie livre 2\SaisieLivre\obj\Release\SaisieLivre.GenListeForm.resources
+C:\Users\bakemono\Desktop\saisie livre 2\SaisieLivre\obj\Release\SaisieLivre.ImageForm.resources
+C:\Users\bakemono\Desktop\saisie livre 2\SaisieLivre\obj\Release\SaisieLivre.LoadMultiDistriForm.resources
+C:\Users\bakemono\Desktop\saisie livre 2\SaisieLivre\obj\Release\SaisieLivre.MainForm.resources
+C:\Users\bakemono\Desktop\saisie livre 2\SaisieLivre\obj\Release\SaisieLivre.Properties.Resources.resources
+C:\Users\bakemono\Desktop\saisie livre 2\SaisieLivre\obj\Release\SaisieLivre.DilicomForm.resources
+C:\Users\bakemono\Desktop\saisie livre 2\SaisieLivre\obj\Release\SaisieLivre.Forms.SplashScreen.SplashScreenForm.resources
+C:\Users\bakemono\Desktop\saisie livre 2\SaisieLivre\obj\Release\SaisieLivre.TradForm.resources
+C:\Users\bakemono\Desktop\saisie livre 2\SaisieLivre\obj\Release\SaisieLivre.csproj.GenerateResource.Cache
+C:\Users\fgros\Desktop\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.exe
+C:\Users\fgros\Desktop\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.pdb
+C:\Users\fgros\Desktop\Saisie Livre\SaisieLivre\bin\Release\SaisieLivre.exe
+C:\Users\fgros\Desktop\Saisie Livre\SaisieLivre\bin\Release\SaisieLivre.pdb
+C:\Users\fgros\Desktop\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.AuteursForm.resources
+C:\Users\fgros\Desktop\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.DicoAuteurForm.resources
+C:\Users\fgros\Desktop\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.GenListeForm.resources
+C:\Users\fgros\Desktop\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.ImageForm.resources
+C:\Users\fgros\Desktop\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.LoadMultiDistriForm.resources
+C:\Users\fgros\Desktop\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.MainForm.resources
+C:\Users\fgros\Desktop\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.Properties.Resources.resources
+C:\Users\fgros\Desktop\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.DilicomForm.resources
+C:\Users\fgros\Desktop\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.Forms.SplashScreen.SplashScreenForm.resources
+C:\Users\fgros\Desktop\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.TradForm.resources
+C:\Users\fgros\Desktop\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.csproj.GenerateResource.Cache
+C:\Users\fgros\Desktop\Saisie Livre\SaisieLivre\bin\Release\SaisieLivre.exe.config
+C:\Users\fgros\Desktop\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.CollectionForm.resources
+C:\Users\fgros\Desktop\Saisie Livre - Copie\SaisieLivre\bin\Release\SaisieLivre.exe.config
+C:\Users\fgros\Desktop\Saisie Livre - Copie\SaisieLivre\obj\Release\SaisieLivre.exe
+C:\Users\fgros\Desktop\Saisie Livre - Copie\SaisieLivre\obj\Release\SaisieLivre.pdb
+C:\Fichiers Communs\François Gros\repository bidon\Saisie Livre\SaisieLivre\bin\Release\SaisieLivre.exe.config
+C:\Fichiers Communs\François Gros\repository bidon\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.exe
+C:\Fichiers Communs\François Gros\repository bidon\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.pdb
+C:\Fichiers Communs\François Gros\repository bidon\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.csprojResolveAssemblyReference.cache
+C:\Fichiers Communs\François Gros\repository bidon\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.AuteursForm.resources
+C:\Fichiers Communs\François Gros\repository bidon\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.CollectionForm.resources
+C:\Fichiers Communs\François Gros\repository bidon\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.DicoAuteurForm.resources
+C:\Fichiers Communs\François Gros\repository bidon\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.GenListeForm.resources
+C:\Fichiers Communs\François Gros\repository bidon\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.ImageForm.resources
+C:\Fichiers Communs\François Gros\repository bidon\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.LoadMultiDistriForm.resources
+C:\Fichiers Communs\François Gros\repository bidon\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.MainForm.resources
+C:\Fichiers Communs\François Gros\repository bidon\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.DilicomForm.resources
+C:\Fichiers Communs\François Gros\repository bidon\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.Forms.SplashScreen.SplashScreenForm.resources
+C:\Fichiers Communs\François Gros\repository bidon\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.TradForm.resources
+C:\Fichiers Communs\François Gros\repository bidon\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.csproj.GenerateResource.Cache
+C:\Fichiers Communs\François Gros\repository bidon\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.Properties.Resources.resources
+C:\Fichiers Communs\François Gros\repository bidon\Saisie Livre\SaisieLivre\bin\Release\SaisieLivre.exe
+C:\Fichiers Communs\François Gros\repository bidon\Saisie Livre\SaisieLivre\bin\Release\SaisieLivre.pdb
+C:\Fichiers Communs\François Gros\repository\~Programmes de saisie\Saisie Livre\SaisieLivre\bin\Release\SaisieLivre.exe.config
+C:\Fichiers Communs\François Gros\repository\~Programmes de saisie\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.exe
+C:\Fichiers Communs\François Gros\repository\~Programmes de saisie\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.pdb
+C:\Fichiers Communs\François Gros\repository\~Programmes de saisie\Saisie Livre\SaisieLivre\bin\Release\SaisieLivre.exe
+C:\Fichiers Communs\François Gros\repository\~Programmes de saisie\Saisie Livre\SaisieLivre\bin\Release\SaisieLivre.pdb
+C:\Fichiers Communs\François Gros\repository\~Programmes de saisie\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.AuteursForm.resources
+C:\Fichiers Communs\François Gros\repository\~Programmes de saisie\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.CollectionForm.resources
+C:\Fichiers Communs\François Gros\repository\~Programmes de saisie\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.DicoAuteurForm.resources
+C:\Fichiers Communs\François Gros\repository\~Programmes de saisie\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.GenListeForm.resources
+C:\Fichiers Communs\François Gros\repository\~Programmes de saisie\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.ImageForm.resources
+C:\Fichiers Communs\François Gros\repository\~Programmes de saisie\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.LoadMultiDistriForm.resources
+C:\Fichiers Communs\François Gros\repository\~Programmes de saisie\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.MainForm.resources
+C:\Fichiers Communs\François Gros\repository\~Programmes de saisie\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.Properties.Resources.resources
+C:\Fichiers Communs\François Gros\repository\~Programmes de saisie\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.DilicomForm.resources
+C:\Fichiers Communs\François Gros\repository\~Programmes de saisie\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.Forms.SplashScreen.SplashScreenForm.resources
+C:\Fichiers Communs\François Gros\repository\~Programmes de saisie\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.TradForm.resources
+C:\Fichiers Communs\François Gros\repository\~Programmes de saisie\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.csproj.GenerateResource.Cache
+C:\Fichiers Communs\François Gros\repository\~Programmes de saisie\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.csprojResolveAssemblyReference.cache
+C:\Users\fgros\Desktop\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.Forms.NewCollectionForm.resources
+C:\Users\fgros\Desktop\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.csprojResolveAssemblyReference.cache
+C:\Fichiers Communs\François Gros\repository\~Programmes de saisie\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.Forms.NewCollectionForm.resources
+C:\Fichiers Communs\François Gros\git_repository\dbtools\Saisie Livre\SaisieLivre\bin\Release\SaisieLivre.exe.config
+C:\Fichiers Communs\François Gros\git_repository\dbtools\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.exe
+C:\Fichiers Communs\François Gros\git_repository\dbtools\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.pdb
+C:\Fichiers Communs\François Gros\git_repository\dbtools\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.csprojResolveAssemblyReference.cache
+C:\Fichiers Communs\François Gros\git_repository\dbtools\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.AuteursForm.resources
+C:\Fichiers Communs\François Gros\git_repository\dbtools\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.CollectionForm.resources
+C:\Fichiers Communs\François Gros\git_repository\dbtools\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.DicoAuteurForm.resources
+C:\Fichiers Communs\François Gros\git_repository\dbtools\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.GenListeForm.resources
+C:\Fichiers Communs\François Gros\git_repository\dbtools\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.ImageForm.resources
+C:\Fichiers Communs\François Gros\git_repository\dbtools\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.LoadMultiDistriForm.resources
+C:\Fichiers Communs\François Gros\git_repository\dbtools\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.MainForm.resources
+C:\Fichiers Communs\François Gros\git_repository\dbtools\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.Forms.NewCollectionForm.resources
+C:\Fichiers Communs\François Gros\git_repository\dbtools\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.Properties.Resources.resources
+C:\Fichiers Communs\François Gros\git_repository\dbtools\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.DilicomForm.resources
+C:\Fichiers Communs\François Gros\git_repository\dbtools\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.Forms.SplashScreen.SplashScreenForm.resources
+C:\Fichiers Communs\François Gros\git_repository\dbtools\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.TradForm.resources
+C:\Fichiers Communs\François Gros\git_repository\dbtools\Saisie Livre\SaisieLivre\obj\Release\SaisieLivre.csproj.GenerateResource.Cache
+C:\Fichiers Communs\François Gros\git_repository\dbtools\Saisie Livre\SaisieLivre\bin\Release\SaisieLivre.exe
+C:\Fichiers Communs\François Gros\git_repository\dbtools\Saisie Livre\SaisieLivre\bin\Release\SaisieLivre.pdb
+C:\Fichiers Communs\François Gros\git_repository\dbtools\Saisie Livre\SaisieLivre\bin\Release\FirebirdSql.Data.FirebirdClient.dll
