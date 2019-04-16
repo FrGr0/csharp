@@ -1,0 +1,266 @@
+﻿<Window x:Name="MainForm" x:Class="SaisieWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SaisieWPF"         
+        Title="SaisieLivre_WPF" Height="800" Width="900" Loaded="MainForm_Loaded">
+    <Grid>
+        <DockPanel>
+            <TabControl x:Name="TC_Main" Margin="0,0,0,0">
+                <TabItem x:Name="TI_Saisie" Header="Saisie">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="1*" />
+                            <ColumnDefinition Width="5*" />
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="30" />
+                            <RowDefinition Height="120" />
+                            <RowDefinition Height="1*" />
+                            <RowDefinition Height="1*" />
+                        </Grid.RowDefinitions>
+                        <Grid Grid.Row="0" Grid.Column="1">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="60"/>
+                                <ColumnDefinition Width="130"/>
+                                <ColumnDefinition Width="1*" />
+                            </Grid.ColumnDefinitions>
+                            <Label Content="EAN :" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center" />
+                            <TextBox x:Name="TB_EAN" Grid.Column="1" Margin="5, 5, 5, 5" />
+                        </Grid>
+                        <Grid Grid.Column="0" Grid.RowSpan="2">
+                            <Border Margin="10,10,10,10" BorderThickness="1" BorderBrush="Black">
+                                <Image x:Name="IM_Premiere" Margin="0,0,0,0" />
+                            </Border>
+                        </Grid>
+                        <GroupBox Margin="10,10,10,10" Grid.Row="1" Grid.Column="1" >
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="80" />
+                                    <ColumnDefinition Width="1*" />
+                                </Grid.ColumnDefinitions>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="1*" />
+                                    <RowDefinition Height="1*" />
+                                    <RowDefinition Height="1*" />
+                                </Grid.RowDefinitions>
+                                <Label Style="{StaticResource LabelStyle}" Content="Titre :" Grid.Row="0" Margin="0,4,0,1" />
+                                <TextBox VerticalAlignment="Center" x:Name="TB_Titre" Grid.Row="0" Grid.Column="1" Margin="0,8,5,5" />
+                                <Label Foreground="Blue" Style="{StaticResource LabelStyle}" Content="Libellé (F2) :" Grid.Row="1" Margin="0,5,0,1"/>
+                                <TextBox VerticalAlignment="Center" x:Name="TB_Libelle" Grid.Row="1" Grid.Column="1" Margin="0,9,5,5" />
+                                <Label Foreground="Blue" Style="{StaticResource LabelStyle}" Content="Auteurs (F2) :" Grid.Row="2" Margin="0,5,0,0"/>
+                                <TextBox VerticalAlignment="Center" x:Name="TB_Auteurs" Grid.Row="2" Grid.Column="1" Margin="0,9,5,4" />
+                            </Grid>
+                        </GroupBox>
+                        <Grid Grid.Column="1" Grid.Row="2" Margin="0,0,0,0">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="1*" />
+                                <ColumnDefinition Width="1*" />
+                                <ColumnDefinition Width="1*" />
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="1*" />
+                                <RowDefinition Height="1*" />
+                                <RowDefinition Height="1*" />
+                                <RowDefinition Height="1*" />
+                                <RowDefinition Height="1*" />
+                                <RowDefinition Height="1*" />
+                                <RowDefinition Height="1*" />
+                                <RowDefinition Height="1*" />
+                                <RowDefinition Height="1*" />
+                                <RowDefinition Height="1*" />
+                            </Grid.RowDefinitions>
+                            <Label Content="Editeur :" Grid.Column="0" Grid.Row="0" />
+                            <ComboBox x:Name="CB_Editeur" Height="18" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" Margin="75, 5, 5, 5" IsEditable="True"/>
+                            <Label Content="Distri :" Grid.Column="2" Grid.Row="0" />
+                            <ComboBox x:Name="CB_Distri" Height="18" Grid.Row="0" Grid.Column="2" Margin="50, 5, 20, 5" IsEditable="True"/>
+                            <Label Content="Coll (F2) :" Grid.Row="1" Grid.Column="0" />
+                            <ComboBox x:Name="CB_Coll" Height="18" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="3" Margin="75, 5, 20, 5" IsEditable="True"/>
+                            <Grid Grid.Row="2" Grid.Column="0">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="70" />
+                                    <ColumnDefinition Width="1*" />
+                                    <ColumnDefinition Width="1*" />
+                                    <ColumnDefinition Width="1*" />
+                                    <ColumnDefinition Width="1*" />
+                                </Grid.ColumnDefinitions>
+                                <Label Style="{StaticResource LabelStyle}" Content="N° Coll :" Grid.Column="0" />
+                                <TextBox x:Name="TB_NoColl" Height="18" Grid.Column="1" Margin="5,5,5,5" />
+                                <Label Style="{StaticResource LabelStyle}" Content="De :" Grid.Column="2" />
+                                <TextBox x:Name="TB_ColDe"  Height="18" Grid.Column="3" Margin="5,5,5,5" />
+                                <Label Style="{StaticResource LabelStyle}" Content="A :" Grid.Column="4" />
+                            </Grid>
+                            <Grid Grid.Row="2" Grid.Column="1">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="40" />
+                                    <ColumnDefinition Width="1*" />
+                                    <ColumnDefinition Width="1*" />
+                                </Grid.ColumnDefinitions>
+                                <TextBox x:Name="TB_CollA" Height="18" Grid.Column="0" Margin="5,5,5,5" />
+                                <CheckBox x:Name="CBX_CollCoffret" Grid.Column="1" Content="Coffret" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                                <CheckBox x:Name="CBX_CollHorsSerie" Grid.Column="2" Content="Hors Serie" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                            </Grid>
+                            <Label Foreground="Blue" Content="Serie (F2) :" Grid.Row="3" Grid.Column="0" />
+                            <ComboBox x:Name="CB_Serie" Height="18" Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="3" Margin="75, 5, 20, 5" IsEditable="True"/>
+                            <Grid Grid.Row="4" Grid.Column="0">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="70" />
+                                    <ColumnDefinition Width="1*" />
+                                    <ColumnDefinition Width="1*" />
+                                    <ColumnDefinition Width="1*" />
+                                    <ColumnDefinition Width="1*" />
+                                </Grid.ColumnDefinitions>
+                                <Label Style="{StaticResource LabelStyle}" Content="N° Serie :" Grid.Column="0" />
+                                <TextBox x:Name="TB_NoSerie" Height="18" Grid.Column="1" Margin="5,5,5,5" />
+                                <Label Style="{StaticResource LabelStyle}" Content="De :" Grid.Column="2" />
+                                <TextBox x:Name="TB_SerieDe" Height="18" Grid.Column="3" Margin="5,5,5,5" />
+                                <Label Style="{StaticResource LabelStyle}" Content="A :" Grid.Column="4" />
+                            </Grid>
+                            <Grid Grid.Row="4" Grid.Column="1">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="40" />
+                                    <ColumnDefinition Width="1*" />
+                                    <ColumnDefinition Width="1*" />
+                                </Grid.ColumnDefinitions>
+                                <TextBox x:Name="TB_SerieA" Height="18" Grid.Column="0" Margin="5,5,5,5" />
+                                <CheckBox x:Name="CBX_SerieCoffret" Grid.Column="1" Content="Coffret" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                                <CheckBox x:Name="CBX_SerieInteg" Grid.Column="2" Content="Intégrale" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                            </Grid>
+                            <CheckBox x:Name="CBX_SerieHS" Grid.Row="4" Grid.Column="3" Content="Hors Série" VerticalAlignment="Center" Margin="5" />
+                            <Label Content="Parution :" Grid.Row="5" Grid.Column="0" />
+                            <DatePicker x:Name="DTP_Parution"  Grid.Row="5" Grid.Column="0" Margin="75,2,5,2" />
+                            <Grid Grid.Row="5" Grid.Column="1">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="50" />
+                                    <ColumnDefinition Width="30" />
+                                    <ColumnDefinition Width="1*" />
+                                </Grid.ColumnDefinitions>
+                                <Label Grid.Column="0" Content="Dispo :" />
+                                <TextBox Grid.Column="1" Margin="5,5,5,5" Height="18" x:Name="TB_CodeDispo" />
+                                <ComboBox Grid.Column="2" Margin="5,5,5,5" Height="18" x:Name="CB_Dispo" IsEditable="True" />
+                            </Grid>
+                            <Grid Grid.Column="2" Grid.Row="5">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="30" />
+                                    <ColumnDefinition Width="1*" />
+                                    <ColumnDefinition Width="40" />
+                                    <ColumnDefinition Width="1*" />
+                                </Grid.ColumnDefinitions>
+                                <Label FontSize="16" Content="€" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center" />
+                                <TextBox x:Name="TB_Prix"  Height="18"  Grid.Column="1" Margin="5,5,10,5" />
+                                <Label Content="TVA :" Grid.Column="2" HorizontalAlignment="Right" />
+                                <ComboBox x:Name="CB_TVA"  Height="18"  Grid.Column="3" Margin="5,5,20,5" IsEditable="True" />
+                            </Grid>
+                            <Grid Grid.Row="6" Grid.Column="0">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="75" />
+                                    <ColumnDefinition Width="35" />
+                                    <ColumnDefinition Width="1*" />
+                                </Grid.ColumnDefinitions>
+                                <Label Content="Support :" Grid.Column="0" />
+                                <TextBox x:Name="TB_CodeSupport"  Height="18"  Grid.Column="1" Margin="0,5,5,5" />
+                                <ComboBox x:Name="CB_Support"  Height="18"  Grid.Column="2" Margin="0,5,5,5" IsEditable="True" HorizontalAlignment="Right" Width="121" />
+                            </Grid>
+                            <Grid Grid.Row="6" Grid.Column="1">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="60" />
+                                    <ColumnDefinition Width="1*" />
+                                </Grid.ColumnDefinitions>
+                                <Label Content="Lectorat :" Grid.Column="0" />
+                                <ComboBox x:Name="CB_Lectorat"  Height="18"  Margin="10,5,5,5" Grid.Column="1" IsEditable="True" />
+                            </Grid>
+                            <Grid Grid.Row="6" Grid.Column="2">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="50" />
+                                    <ColumnDefinition Width="1*" />
+                                </Grid.ColumnDefinitions>
+                                <Label Content="Style :" Grid.Column="0" />
+                                <ComboBox x:Name="CB_Style"  Height="18"  Margin="0,5,20,5" Grid.Column="1" IsEditable="True" HorizontalAlignment="Right" Width="171" />
+                            </Grid>
+                            <Grid Grid.Row="7" Grid.ColumnSpan="3">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="1.2*" />
+                                    <ColumnDefinition Width="2*" />
+                                    <ColumnDefinition Width="1.4*" />
+                                    <ColumnDefinition Width="1*" />
+                                    <ColumnDefinition Width="0.8*" />
+                                    <ColumnDefinition Width="0.9*" />
+                                    <ColumnDefinition Width="1.3*" />
+                                    <ColumnDefinition Width="1*" />
+                                    <ColumnDefinition Width="1.2*" />
+                                </Grid.ColumnDefinitions>
+                                <CheckBox x:Name="CBX_LivreLu" Grid.Column="0" Content="Livre Lu" VerticalAlignment="Center" Margin="5" />
+                                <CheckBox x:Name="CBX_GrandCara" Grid.Column="1" Content="Grands Caractères" VerticalAlignment="Center" Margin="2" />
+                                <CheckBox x:Name="CBX_Multilingue" Grid.Column="2" Content="Multilingue" VerticalAlignment="Center" Margin="2"/>
+                                <CheckBox x:Name="CBX_Illustre" Grid.Column="3" Content="Illustré" VerticalAlignment="Center" Margin="2" />
+                                <CheckBox x:Name="CBX_IAD" Grid.Column="4" Content="IAD" VerticalAlignment="Center" Margin="2" />
+                                <CheckBox x:Name="CBX_Luxe" Grid.Column="5" Content="Luxe" VerticalAlignment="Center" Margin="2" />
+                                <CheckBox x:Name="CBX_Cartonne" Grid.Column="6" Content="Cartonné" VerticalAlignment="Center" Margin="2" />
+                                <CheckBox x:Name="CBX_Relie" Grid.Column="7" Content="Relié" VerticalAlignment="Center" Margin="2" />
+                                <CheckBox x:Name="CBX_Broche" Grid.Column="8" Content="Broché" VerticalAlignment="Center" Margin="2" />
+                            </Grid>
+
+                            <Grid Grid.Row="8" Grid.ColumnSpan="3" >
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="75" />
+                                    <ColumnDefinition Width="1*" />
+                                </Grid.ColumnDefinitions>
+                                <Label Content="Comm (F2) :" Grid.Column="0" Foreground="Blue"/>
+                                <TextBox x:Name="TB_Commentaire"  Height="18"  Grid.Column="1" Margin="0,5,20,5" />
+                            </Grid>
+                            <Grid Grid.Row="9" Grid.ColumnSpan="3">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="75" />
+                                    <ColumnDefinition Width="60" />
+                                    <ColumnDefinition Width="60" />
+                                    <ColumnDefinition Width="50" />
+                                    <ColumnDefinition Width="1*" />
+                                    <ColumnDefinition Width="50" />
+                                    <ColumnDefinition Width="1*" />
+                                    <ColumnDefinition Width="85" />
+                                    <ColumnDefinition Width="65" />
+                                    <ColumnDefinition Width="85" />
+                                    <ColumnDefinition Width="85" />
+                                </Grid.ColumnDefinitions>
+                                <Label Content="N° Edition :"  Grid.Column="0" />
+                                <TextBox x:Name="TB_Edit1"  Height="18"  Grid.Column="1" Margin="0,5,5,5"/>
+                                <TextBox x:Name="TB_Edit2"  Height="18"  Grid.Column="2" Margin="0,5,5,5" />
+
+                                <Label Content="Poids :" Grid.Column="3" />
+                                <TextBox x:Name="TB_Poids"  Height="18"  Grid.Column="4" Margin="5,5,5,5"/>
+                                <Label Content="Pages :" Grid.Column="5" />
+                                <TextBox x:Name="TB_Pages"  Height="18"  Grid.Column="6" Margin="5,5,5,5"/>
+                                <Label Content="Largeur(mm) :" Grid.Column="7" />
+                                <TextBox x:Name="TB_Largeur" Grid.Column="8" Margin="5,5,5,5"/>
+                                <Label Content="Hauteur(mm) :" Grid.Column="9" />
+                                <TextBox x:Name="TB_Hauteur"  Height="18"  Grid.Column="10" Margin="5,5,20,5"/>
+                            </Grid>
+                        </Grid>
+                        <GroupBox Grid.Row="4" Grid.Column="1" Margin="10">
+                            <Grid Grid.Row="4" Grid.Column="1" ShowGridLines="True">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="2*" />
+                                    <ColumnDefinition Width="1*" />
+                                </Grid.ColumnDefinitions>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="1*" />
+                                    <RowDefinition Height="1*" />
+                                    <RowDefinition Height="1*" />
+                                    <RowDefinition Height="1*" />
+                                    <RowDefinition Height="1*" />
+                                    <RowDefinition Height="1*" />
+                                    <RowDefinition Height="1*" />
+                                    <RowDefinition Height="1*" />
+                                    <RowDefinition Height="1*" />
+                                </Grid.RowDefinitions>
+                            </Grid>
+                        </GroupBox>
+                    </Grid>
+                </TabItem>
+                <TabItem x:Name="TI_Resume" Header="Resume" />
+                <TabItem x:Name="TI_Param" Header="Paramètres" />
+            </TabControl>
+        </DockPanel>
+    </Grid>
+</Window>

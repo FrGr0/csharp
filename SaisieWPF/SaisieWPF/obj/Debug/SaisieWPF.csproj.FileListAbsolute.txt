@@ -1,0 +1,16 @@
+C:\FGDev\c#\SaisieWPF\SaisieWPF\obj\Debug\SaisieWPF.csprojAssemblyReference.cache
+C:\FGDev\c#\SaisieWPF\SaisieWPF\obj\Debug\App.g.cs
+C:\FGDev\c#\SaisieWPF\SaisieWPF\obj\Debug\SaisieWPF_MarkupCompile.cache
+C:\FGDev\c#\SaisieWPF\SaisieWPF\bin\Debug\SaisieWPF.exe.config
+C:\FGDev\c#\SaisieWPF\SaisieWPF\bin\Debug\SaisieWPF.exe
+C:\FGDev\c#\SaisieWPF\SaisieWPF\bin\Debug\SaisieWPF.pdb
+C:\FGDev\c#\SaisieWPF\SaisieWPF\obj\Debug\MainWindow.g.cs
+C:\FGDev\c#\SaisieWPF\SaisieWPF\obj\Debug\SaisieWPF_MarkupCompile.lref
+C:\FGDev\c#\SaisieWPF\SaisieWPF\obj\Debug\MainWindow.baml
+C:\FGDev\c#\SaisieWPF\SaisieWPF\obj\Debug\SaisieWPF.g.resources
+C:\FGDev\c#\SaisieWPF\SaisieWPF\obj\Debug\SaisieWPF.Properties.Resources.resources
+C:\FGDev\c#\SaisieWPF\SaisieWPF\obj\Debug\SaisieWPF.csproj.GenerateResource.cache
+C:\FGDev\c#\SaisieWPF\SaisieWPF\obj\Debug\SaisieWPF.csproj.CoreCompileInputs.cache
+C:\FGDev\c#\SaisieWPF\SaisieWPF\obj\Debug\SaisieWPF.exe
+C:\FGDev\c#\SaisieWPF\SaisieWPF\obj\Debug\SaisieWPF.pdb
+C:\FGDev\c#\SaisieWPF\SaisieWPF\obj\Debug\App.baml
